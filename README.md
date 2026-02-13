@@ -7,7 +7,7 @@ progressively transform it into trustworthy, structured, and intelligent
 outputs using data engineering, machine learning, and AI techniques.
 
 ## Current Stage
-Building a clean and defensive data ingestion layer.
+Building a clean, defensive data ingestion layer.
 
 ## Why This Matters
-Data must be trustworthy before it can be made intelligent.
+Before data can power insights or intelligence, it needs to be trustworthy.
